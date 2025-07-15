@@ -45,8 +45,11 @@ The solution is built on maternal healthcare data collected from rural areas of 
 ## How It Works
 
 1️⃣ User registers on the app and provides health details.
+
 2️⃣ The AI engine performs risk analysis using ML models.
+
 3️⃣ Personalized recommendations & chat support are enabled.
+
 4️⃣ Continuous feedback loop improves predictions over time.
 
 ## Goal
@@ -56,5 +59,6 @@ MatriCare aims to reduce maternal mortality and improve the pregnancy experience
 ## 🤝 Contributing
 
 We welcome contributions!
+
 Please fork the repo, work on your feature/bugfix, and raise a PR.
 
